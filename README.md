@@ -1,16 +1,21 @@
-# flutter_cubit
+# flutter_Travel_App
 
-A new Flutter project.
+get the data using Bloc and Cubit.
 
-## Getting Started
+A flutter project guided by @dbestech channel on youtube.
 
-This project is a starting point for a Flutter application.
+[YouTube Link](https://www.youtube.com/watch?v=x4DydJKVvQk&t=75s)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<div>
+<img src="https://user-images.githubusercontent.com/63953403/190375944-44ca8ddb-6bd9-4f9d-8685-311c8f784258.png" width="350" height="650">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/63953403/190376935-db45e88c-54d9-4bed-84a2-d4e843cb0b67.png" width="350" height="650">
+  
+<img src="https://user-images.githubusercontent.com/63953403/190376939-dedd7557-ad1f-40c5-bfd1-b9d2566b6ad4.png" width="350" height="650">
+
+  
+<img src="https://user-images.githubusercontent.com/63953403/190593967-f4d2c32d-b727-4b54-a757-e565e17358e0.png" width="350" height="650">
+
+</div>
+
