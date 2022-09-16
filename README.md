@@ -1,5 +1,7 @@
 # flutter_Travel_App
 
+get the data using Bloc and Cubit.
+
 A flutter project guided by @dbestech channel on youtube.
 
 [YouTube Link](https://www.youtube.com/watch?v=x4DydJKVvQk&t=75s)
@@ -12,4 +14,8 @@ A flutter project guided by @dbestech channel on youtube.
   
 <img src="https://user-images.githubusercontent.com/63953403/190376939-dedd7557-ad1f-40c5-bfd1-b9d2566b6ad4.png" width="350" height="650">
 
+  
+<img src="https://user-images.githubusercontent.com/63953403/190593967-f4d2c32d-b727-4b54-a757-e565e17358e0.png" width="350" height="650">
+
 </div>
+
