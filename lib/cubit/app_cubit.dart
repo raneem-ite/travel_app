@@ -16,4 +16,12 @@ class AppCubits extends Cubit<CubitState> {
       places.isNotEmpty ? emit(LoadedState(places)) : emit(LoadingState());
     } catch (e) {}
   }
+
+  void getDetails(DataModel data) {
+    emit(DetailState(data));
+  }
+
+  void goHome() {
+    emit(LoadedState(places));
+  }
 }
