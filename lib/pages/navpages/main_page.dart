@@ -26,7 +26,6 @@ class _MainPageState extends State<MainPage> {
     });
   }
 
-  ///for test
   @override
   Widget build(BuildContext context) {
     return Scaffold(
